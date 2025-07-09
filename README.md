@@ -24,3 +24,9 @@ This project is a **Streamlit-based web app** that predicts product sales based 
 
 ## 📂 Project Structure
 
+Sales_prediction_App/
+├── Advertising.csv # Dataset
+├── app.py # Streamlit application
+├── requirements.txt # Required libraries
+└── README.md # Project documentation
+
